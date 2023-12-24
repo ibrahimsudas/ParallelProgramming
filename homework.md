@@ -48,10 +48,13 @@ DiningVillagers(Beyza Sungar, Mustafa Eren Tugcu, Rukiye Tura)
 
 Barış Akın, Senem Ürkmez, Emir Sercan Korkmazgil, Ragıp Günay
 
+İbrahim sudaş
+
 # Strategy: Dijkstra's Solution
 Emre Özcan, Elanur İleri, Sema Nimet Ünal
 
 Mehmet Alpergün, Selvanur Kıraç
+
 
 OGcar(Ogün Ak , Şaban Kerem Yeğin , Tuğcan Turunçkapı)
 
